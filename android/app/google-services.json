@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "909104335184",
+    "firebase_url": "https://login-450ea.firebaseio.com",
+    "project_id": "login-450ea",
+    "storage_bucket": "login-450ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909104335184:android:ce8ca294c9cc3a1b6b4455",
+        "android_client_info": {
+          "package_name": "com.example.login_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909104335184-9vdre1psi9oc2d2rmkutfgkl68oqpke5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5FBe_jo7Wsof1rGuL75oz0Un0yjQMNXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909104335184-9vdre1psi9oc2d2rmkutfgkl68oqpke5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
